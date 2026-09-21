@@ -2,7 +2,6 @@ class RecentCounter {
     int counter;
     ArrayDeque<Integer> q;
     public RecentCounter() {
-        counter = 0;
         q = new ArrayDeque<>();
     }
     
