@@ -6,6 +6,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Mohana009/Leetcode/tree/master/0622-design-circular-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohana009/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,8 +33,13 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Mohana009/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Mohana009/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Mohana009/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
