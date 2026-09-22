@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Mohana009/Leetcode/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohana009/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Mohana009/Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Mohana009/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Mohana009/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Mohana009/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
