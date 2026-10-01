@@ -7,6 +7,7 @@
 | [0239-sliding-window-maximum](https://github.com/Mohana009/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Mohana009/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Mohana009/Leetcode/tree/master/0641-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/Mohana009/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohana009/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
@@ -84,4 +85,8 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mohana009/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohana009/Leetcode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Mohana009/Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
