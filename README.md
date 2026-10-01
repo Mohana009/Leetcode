@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mohana009/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mohana009/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Mohana009/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Mohana009/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Mohana009/Leetcode/tree/master/0707-design-linked-list) |
@@ -82,4 +83,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mohana009/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mohana009/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
