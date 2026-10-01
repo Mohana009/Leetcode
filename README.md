@@ -9,6 +9,7 @@
 | [0641-design-circular-deque](https://github.com/Mohana009/Leetcode/tree/master/0641-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/Mohana009/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohana009/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohana009/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohana009/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohana009/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
@@ -91,4 +92,5 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Mohana009/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohana009/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohana009/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
